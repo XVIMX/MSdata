@@ -1,0 +1,12 @@
+Package: MSdata
+Type: Package
+Title: Example FIE-MS data sets
+Version: 0.1
+Date: 2015-03-03
+Author: Tom Wilson <thw7@aber.ac.uk>
+Maintainer: Tom Wilson <thw7@aber.ac.uk>
+Description: 
+License: GPL (>= 2)
+LazyLoad: yes
+LazyData: yes
+ZipData: no
