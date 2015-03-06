@@ -13,6 +13,7 @@ cat(paste(length(unique(object@cls)), "classes", sep = " "), "\n", "\n")
 cat(paste(ncol(object@positive), "variables in positive mode",sep = " "), "\n")
 cat(paste(ncol(object@negative), "variables in negative mode",sep = " "), "\n","\n" )
 
+
 if(object@env$name == "sin.pw.1"){
 
   cat("Positive mode stats;", "\n",
@@ -24,6 +25,8 @@ if(object@env$name == "sin.pw.1"){
       "ACC:0.94","\n",
       "AUC:0.99","\n",
       "MAR:0.49")  
+  
+}else{
   
 }
   }
