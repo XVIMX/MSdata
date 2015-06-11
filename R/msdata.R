@@ -11,7 +11,7 @@
 #' @docType data
 #' @usage data(sin132HRMS)
 #' @author Tom Wilson
-#'
+#' @export
 NULL
 
 
@@ -28,7 +28,7 @@ NULL
 #' @docType data
 #' @usage data(sin132LTQ)
 #' @author Tom Wilson
-#'
+#' @export
 NULL
 
 
@@ -47,5 +47,5 @@ NULL
 #' @docType data
 #' @usage data(pw1HRMS)
 #' @author Tom Wilson
-#'
+#' @export
 NULL
