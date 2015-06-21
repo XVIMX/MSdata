@@ -4,20 +4,20 @@
 \name{sin132HRMS}
 \alias{sin132HRMS}
 \title{Large High Resolution FIE-MS data set}
+\format{List object containing three elements
+	\itemize{
+		\item pos postivie ionisation mode data frame (3079 variables)
+		\item neg negative ionisation mode data frame (1452 variables)
+		\item cls vector of class lables
+	}}
 \usage{
 data(sin132HRMS)
 }
 \description{
-\code{sin132HRMS} is a FIE-HRMS data sets contaning 1576 observations across
-132 classes.
-\itemize{
-   \item pos. positive ionisation mode wiith 3079 variables
-   \item neg. negative ionisation mode wiith 1452 variables
-   \item cls. vector of 132 unique class lables
-
- }
+Large High Resolution FIE-MS data set
 }
 \author{
 Tom Wilson
 }
+\keyword{datasets}
 

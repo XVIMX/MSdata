@@ -4,20 +4,20 @@
 \name{sin132LTQ}
 \alias{sin132LTQ}
 \title{Large LTQ FIE-MS data set}
+\format{List object containing three elements
+	\itemize{
+		\item pos postivie ionisation mode data frame (742 variables)
+		\item neg negative ionisation mode data frame (688 variables)
+		\item cls vector of class lables
+	}}
 \usage{
 data(sin132LTQ)
 }
 \description{
-\code{sin132LTQ} is a FIE-MS data sets contaning 1320 observations across
-132 classes.
-\itemize{
-   \item pos. positive ionisation mode wiith 742 variables
-   \item neg. negative ionisation mode wiith 688 variables
-   \item cls. vector of 132 unique class lables
-
- }
+Large LTQ FIE-MS data set
 }
 \author{
 Tom Wilson
 }
+\keyword{datasets}
 

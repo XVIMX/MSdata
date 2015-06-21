@@ -3,21 +3,21 @@
 \docType{data}
 \name{pw1HRMS}
 \alias{pw1HRMS}
-\title{Binary FIE-HRMS - (1)}
+\title{Binrary (N = 2) High Resolution FIE-MS data set}
+\format{List object containing three elements
+	\itemize{
+		\item pos postivie ionisation mode data frame (3079 variables)
+		\item neg negative ionisation mode data frame (1452 variables)
+		\item cls vector of class lables
+	}}
 \usage{
 data(pw1HRMS)
 }
 \description{
-\code{pw1HRMS} is a FIE-HRMMS data sets contaning of 24 observations across 2 classes. The two classes are
-two distincit accessions from a large scaling profiling experiment.
-\itemize{
-   \item pos. positive ionisation mode wiith 3079 variables
-   \item neg. negative ionisation mode wiith 1422 variables
-   \item cls. vector of 2 unique class lables11
-
- }
+Binrary (N = 2) High Resolution FIE-MS data set
 }
 \author{
 Tom Wilson
 }
+\keyword{datasets}
 
