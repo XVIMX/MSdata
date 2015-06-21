@@ -9,8 +9,8 @@
 #' @docType data
 #' @usage data(sin132HRMS)
 #' @author Tom Wilson
-#'
 "sin132HRMS"
+
 
 #' Large LTQ FIE-MS data set
 #' @name sin132LTQ
@@ -23,7 +23,6 @@
 #' @docType data
 #' @usage data(sin132LTQ)
 #' @author Tom Wilson
-#'
 "sin132LTQ"
 
 #' Binrary (N = 2) High Resolution FIE-MS data set
@@ -37,5 +36,4 @@
 #' @docType data
 #' @usage data(pw1HRMS)
 #' @author Tom Wilson
-#'
 "pw1HRMS"
