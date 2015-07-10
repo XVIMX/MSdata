@@ -6,9 +6,9 @@
 \title{Large High Resolution FIE-MS data set}
 \format{List object containing three elements
 	\itemize{
-		\item pos postivie ionisation mode data frame (3079 variables)
+		\item pos positive ionisation mode data frame (3079 variables)
 		\item neg negative ionisation mode data frame (1452 variables)
-		\item cls vector of class lables
+		\item cls vector of class labels
 	}}
 \usage{
 data(sin132HRMS)
