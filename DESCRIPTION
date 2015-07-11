@@ -1,11 +1,11 @@
 Package: MSdata
 Type: Package
-Title: Mass spectrometry data and compiled matrices 
+Title: Example Mass Spectrometry Data 
 Version: 0.0.1
 Date: 2015-03-03
 Author: Tom Wilson <thw7@aber.ac.uk>
 Maintainer: Tom Wilson <thw7@aber.ac.uk>
-Description: A collection of raw mass spectrometry (FIE-MS, FIE-HRMS, LCMS, LC-HRMS) and compiled "peak mat" files, which can be used for developing MS processing code and testing / optimising data analysis routines.
+Description: A collection of raw mass spectrometry (FIE-MS, FIE-HRMS, LCMS, LC-HRMS) and pre-processed matrices, which can be used for developing MS processing code, testing and optimising data analysis routines.
 License: GPL (>= 2)
 LazyLoad: yes
 LazyData: yes
