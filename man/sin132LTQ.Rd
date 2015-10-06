@@ -3,20 +3,27 @@
 \docType{data}
 \name{sin132LTQ}
 \alias{sin132LTQ}
-\title{Large LTQ FIE-MS data set}
+\alias{sin132LTQ_raw}
+\title{Large LTQ FIE-MS data set (processed)}
 \format{List object containing three elements
 	\itemize{
 		\item pos positive ionisation mode data frame (742 variables)
 		\item neg negative ionisation mode data frame (688 variables)
-		\item cls vector of class labels
+		\item cls vector of class labels (N = 132)
 	}}
 \usage{
 data(sin132LTQ)
+
+data(sin132LTQ_raw)
 }
 \description{
-Large LTQ FIE-MS data set
+Large LTQ FIE-MS data set (processed)
+
+Large LTQ FIE-MS data set (raw)
 }
 \author{
+Tom Wilson
+
 Tom Wilson
 }
 \keyword{datasets}

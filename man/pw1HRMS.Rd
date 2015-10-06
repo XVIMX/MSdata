@@ -3,18 +3,18 @@
 \docType{data}
 \name{pw1HRMS}
 \alias{pw1HRMS}
-\title{Binary (N = 2) High Resolution FIE-MS data set}
+\title{Binary High Resolution FIE-MS data set (processed)}
 \format{List object containing three elements
 	\itemize{
 		\item pos positive ionisation mode data frame (3079 variables)
 		\item neg negative ionisation mode data frame (1452 variables)
-		\item cls vector of class labels
+		\item cls vector of class labels (N = 2)
 	}}
 \usage{
 data(pw1HRMS)
 }
 \description{
-Binary (N = 2) High Resolution FIE-MS data set
+Binary High Resolution FIE-MS data set (processed)
 }
 \author{
 Tom Wilson

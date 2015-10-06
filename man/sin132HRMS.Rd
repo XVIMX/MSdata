@@ -3,18 +3,18 @@
 \docType{data}
 \name{sin132HRMS}
 \alias{sin132HRMS}
-\title{Large High Resolution FIE-MS data set}
+\title{Large High Resolution FIE-MS data set (processed)}
 \format{List object containing three elements
 	\itemize{
 		\item pos positive ionisation mode data frame (3079 variables)
 		\item neg negative ionisation mode data frame (1452 variables)
-		\item cls vector of class labels
+		\item cls vector of class labels (N = 132)
 	}}
 \usage{
 data(sin132HRMS)
 }
 \description{
-Large High Resolution FIE-MS data set
+Large High Resolution FIE-MS data set (processed)
 }
 \author{
 Tom Wilson
