@@ -3,7 +3,7 @@
 \docType{data}
 \name{abr}
 \alias{abr}
-\title{Single ionisaiton mode of abr1 FIE-MS data (raw)}
+\title{Single ionisation mode of abr1 FIE-MS data (raw)}
 \format{List object containing two elements
 	\itemize{
 		\item neg negative ionisation mode data frame (2000 variables)
@@ -13,7 +13,7 @@
 data(abr)
 }
 \description{
-Single ionisaiton mode of abr1 FIE-MS data (raw)
+Single ionisation mode of abr1 FIE-MS data (raw)
 }
 \author{
 Tom Wilson

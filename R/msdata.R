@@ -39,7 +39,7 @@
 "pw1HRMS"
 
 #' Large LTQ FIE-MS data set (raw)
-#' @name sin132LTQ
+#' @name sin132LTQ_raw
 #' @format List object containing three elements
 #' 	\itemize{
 #'		\item pos positive ionisation mode data frame (1822 variables)
@@ -52,7 +52,7 @@
 "sin132LTQ_raw"
 
 
-#' Single ionisaiton mode of abr1 FIE-MS data (raw)
+#' Single ionisation mode of abr1 FIE-MS data (raw)
 #' @name abr
 #' @format List object containing two elements
 #' 	\itemize{
